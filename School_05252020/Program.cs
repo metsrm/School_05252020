@@ -7,6 +7,8 @@ namespace School_05252020
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Learning to use Git!");
+            Console.WriteLine("Added third line!");
         }
     }
 }
