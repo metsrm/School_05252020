@@ -8,7 +8,7 @@ namespace School_05252020
         {
             Console.WriteLine("Learning to use Git!");
             Console.WriteLine("The GUI is better than Console");
-            Console.Write("fddfdf");
+            Console.WriteLine("aaa");
         }
     }
 }
